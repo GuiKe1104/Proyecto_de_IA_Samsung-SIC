@@ -7,5 +7,5 @@ de cultivo.
 
 Realizado por:
 
-Guillermo Cardenas 
-Johnny Diaz 
+- Guillermo Cardenas 
+- Johnny Diaz 
